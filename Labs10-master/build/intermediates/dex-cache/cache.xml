@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_9b7d83fd622cdf9911d9c1427184f7749db6fda9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d8212f138dec5b182513e8497c1084c532572a4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c07b45d90eeb24793ca9b210c80feeee7080045e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_13c72957db52c8da6c48cb1af44038b05325d3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3f4ffa208007dc830013efeec02ac20e437117c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="90f35a5e026435edf84b433ed0793ef86956c4aa">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\instant-run_e9b2cd58b949c484cad3957eb6e8a76c08ae17ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="10a48d75d51121433dd88b8aa895c906afe532b8">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f863eaf977b6e32faa658d40192aa052d9dc0659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_715a5feff094aab8389bd9d3c2eedc8789579afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_0038ee2681f790fa9fdfeb8aef8a8a984bcd8fbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_c0d701d00bcf1940cde31b70ab6c0497898d6add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_89f5d519c00f44ef6415fd8fa7f511aee61799be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7d2773d1dc888f878d9e16ba05c76a4bda7acfcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_d61fc4ae9cc1de26bd7d6a35f8e9a8ca50e62996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_c079b4934f591f77304433dfedbc8145e656a604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_422f6abac8d828db3e73e796831f6a714aca494e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\prog\Labw10\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_0435a808bb149a704787731b1828b518f0032db1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP notebook\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Programs\prog\Labw10\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_5d6409d4b003b34d0d84dc953c92238f9e6cb302.jar" />
+    </item>
+
+</items>
